@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/Ryuzuky">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ryuzuky&show_icons=true&include_all_commits=true&count_private=true&bg_color=172736&title_color=fbdc8e&text_color=33afb5&icon_color=fbdc8e
-  "/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ryuzuky&show_icons=true&include_all_commits=true&count_private=true&bg_color=172736&title_color=fbdc8e&text_color=33afb5&icon_color=fbdc8e"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ryuzuky&layout=compact&theme=algolia"/>
 </a>
 </p>
