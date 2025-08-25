@@ -15,6 +15,6 @@ I have a strong foundation in Website Development and a broad interest across va
 ### Github Statistic
 <p align="left">
   <a href="https://github.com/Ryuzuky">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ryuzuky&show_icons=true&include_all_commits=true&count_private=true&bg_color=172736&title_color=fbdc8e&text_color=33afb5&icon_color=fbdc8e&hide_border=false&border_radius=10&border_color=fbdc8e"/>
-</a>
+    <img height="300" src="https://github-readme-stats.vercel.app/api?username=Ryuzuky&show_icons=true&include_all_commits=true&count_private=true&bg_color=172736&title_color=fbdc8e&text_color=33afb5&icon_color=fbdc8e&hide_border=false&border_radius=10&border_color=fbdc8e"/>
+  </a>
 </p>
